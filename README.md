@@ -13,6 +13,8 @@ Patient and Doctor classes using OOP
 Schedule appointments
 Save records to files
 Exception handling for invalid data
+
+
 2. Exam Result Processing System
 
 A Python application that manages student records and processes examination results. Student details are stored using tuples, marks are maintained in dictionaries, and records are managed through lists. The system calculates totals, percentages, grades, generates rank lists, and saves reports to files.
