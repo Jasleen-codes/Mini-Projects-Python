@@ -6,13 +6,13 @@ A console-based application designed to manage patient records, doctor informati
 
 Features
 
-Add and manage patient records
-Maintain patient IDs using lists
-Store patient details using dictionaries
-Patient and Doctor classes using OOP
-Schedule appointments
-Save records to files
-Exception handling for invalid data
+Add and manage patient records, 
+, Maintain patient IDs using lists
+, Store patient details using dictionaries
+, Patient and Doctor classes using OOP
+, Schedule appointments
+, Save records to files
+ and Exception handling for invalid data
 
 
 2. Exam Result Processing System
